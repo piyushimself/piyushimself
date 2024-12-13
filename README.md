@@ -1,17 +1,43 @@
-### Hi there friend👋
+# Hi there! 👋 I'm Piyush
 
-<!--
-**piyushimself/piyushimself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **Smart Contract Auditor - in training** 🌐, with a deep interest in **finance** 📈 and **blockchain technologies** ⛓️. By day, I'm exploring the realms of **Cyber Security**, and by night, I'm diving into the fascinating world of **DeFi** and **Web3**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am **Piyush**, a passionate learner of technology and new stuff like *arts* and *finance*. I **love to read books and write diary**. I am a person in **Cyber Security** and fascinated by **Blockchain Technologies** too. As I love arts like *drawing and painting*, I love to learn *web designing and make Illustration* also. Yes, I do make art, check out my Instagram. 
+## About Me
+
+- 🎨 **Creative Side**: I express my love for arts through *drawing, painting*, and *doodling*. Check out my Instagram for my latest creations! 🖌️✨
+- 📖 **Book Lover**: Avid reader and lifelong learner, I believe books hold the power to transform minds.
+- 🛡️ **Cyber Security Enthusiast**: Professionally, I specialize in keeping systems secure and learning the intricacies of penetration testing.
+- 🧠 **Blockchain Explorer**: Fascinated by the innovative potential of smart contracts and decentralized systems.
+
+---
+
+## My Tech Journey 🚀
+
+### 🌟 Skills & Tools
+- **Web3**: Smart Contract Development & Auditing
+- **Cyber Security**: Penetration Testing, Secure Coding Practices
+- **Languages**: Solidity, JavaScript, Python
+- **Frameworks**: Foundry, OpenZeppelin
+
+### 🧩 Currently Learning
+- Smart Contract Auditing techniques 🛠️
+- Advanced **DeFi** protocols and mechanisms
+- Bridging the gap between **Web2** and **Web3** security
+
+### 🎯 Goals
+- Transition into a professional **Web3 Auditor**
+- Explore and contribute to **DeFi** and **Layer 2 Solutions**
+- Merge creativity with technology through impactful projects
+
+---
+
+## Let's Connect 🌐
+- **Instagram (Art)**: [Instagram](https://www.instagram.com/piyushimself/)
+- **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/piyushimself/)
+- **Twitter (Blockchain Thoughts)**: [Twitter](https://x.com/Sec_p0x)
+
+---
+
+### 🌱 "Learning never exhausts the mind" – Leonardo da Vinci 🌱
