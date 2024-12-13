@@ -37,6 +37,7 @@ Welcome to my GitHub! I'm a passionate **Smart Contract Auditor - in training** 
 - **Instagram (Art)**: [Instagram](https://www.instagram.com/piyushimself/)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/piyushimself/)
 - **Twitter (Blockchain Thoughts)**: [Twitter](https://x.com/Sec_p0x)
+- **Blog**:[Substack](https://piyush24jain.substack.com/)
 
 ---
 
