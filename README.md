@@ -33,6 +33,20 @@ Welcome to my GitHub! I'm a passionate **Smart Contract Auditor - in training** 
 
 ---
 
+## My Repositories 🚀
+
+Here are some of the projects I'm proud to showcase:
+
+- [**Audit-Reports-Practice**](https://github.com/piyushimself/Audit-Reports-Practice)  
+  A collection of reports, tools and resources for auditing and securing smart contracts.  
+  **Tech Stack**: Solidity, Foundry
+
+- [**AppTesting**](https://github.com/piyushimself/AppTesting)  
+  A collection of tools and resources for best repo in github for securing applications. I also write my strategy and steps here.  
+
+---
+
+
 ## Let's Connect 🌐
 - **Instagram (Art)**: [Instagram](https://www.instagram.com/piyushimself/)
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/piyushimself/)
